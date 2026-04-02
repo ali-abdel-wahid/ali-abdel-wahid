@@ -7,10 +7,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a student at Faculty of Technology and Industrial Education, Helwan University.
+I'm Ali Abdel Wahid, a second-year student at the Faculty of Technology and Industrial Education, Helwan University.  
+I'm passionate about Automotive Technology and Embedded Systems, with a growing interest in ECU systems and how software controls modern vehicles.
 
-- 🎓 &nbsp; Student at : Faculty of Technology and Industrial Education - Helwan University.
-- 📚 &nbsp; Academic Year : Second Year.
+- 🎓 &nbsp; Studying at Helwan University.
+- 📚 &nbsp; Currently in my second year.
+- 🌱 &nbsp; Learning Embedded C, Microcontrollers, and Automotive basics.
+- 🚗 &nbsp; Interested in ECU Systems and Vehicle Electronics.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-abdel-wahid-64a70b39b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
