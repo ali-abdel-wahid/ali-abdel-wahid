@@ -1,47 +1,65 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+## Hey there 👋, I'm Ali Abdelwahed!
 
-<h2> Hey there! I'm Ali.</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdel-wahid-64a70b39b)
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+---
 
+### 🚗 About Me:
+I’m an Automotive & Embedded Systems enthusiast, passionate about how things work under the hood—especially in modern vehicles.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Currently building a strong foundation in **Embedded C** and **Automotive Systems**, with hands-on experience using microcontrollers and low-level programming.
 
-I'm Ali Abdel Wahid, a second-year student at the Faculty of Technology and Industrial Education, Helwan University.  
-I'm passionate about Automotive Technology and Embedded Systems, with a growing interest in ECU systems and how software controls modern vehicles.
+---
 
-- 🎓 &nbsp; Studying at Helwan University.
-- 📚 &nbsp; Currently in my second year.
-- 🌱 &nbsp; Learning Embedded C, Microcontrollers, and Automotive basics.
-- 🚗 &nbsp; Interested in ECU Systems and Vehicle Electronics.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-abdel-wahid-64a70b39b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+### 🎓 Education:
+- Helwan University  
+- Faculty of Technology and Industrial Education  
+- Specialization: Automotive / Autotronics  
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+---
 
+### 🛠️ What I’m Working With:
+- 💻 C Programming
+- 🔌 Embedded C
+- ⚙️ AVR (ATmega32)
+- 🧪 Proteus Simulation
+- 🧰 Eclipse IDE
+- 🖥️ Visual Studio
 
-- 💻 &nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c)
+---
 
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+### 🚀 Currently Learning:
+- Automotive Systems Basics  
+- Embedded Drivers Development  
+- Moving towards CAN & Vehicle Communication  
 
-  
-<br/>
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
+### 🔧 Projects:
+- 💡 LED Driver (Embedded C)
+- 🚗 Arduino Car Project  
+- 🔢 7-Segment Display (Driver Level)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-abdel-wahid" alt="ali-abdel-wahid" /> </p>
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📫 Reach Me:
+- 📧 Email: alizain55347@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ali-abdel-wahid-64a70b39b
 
-### 📊 Profile stats
+---
 
-[![Ali Abdel Wahid github stats](https://github-readme-stats.vercel.app/api?username=ali-abdel-wahid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ali-abdel-wahid/github-readme-stats)
+### 💭 Mindset:
+> I believe in building strong fundamentals first, then scaling step by step into complex systems.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</p>
-<img src="https://imgur.com/rilHVxA.png"/>
-</p>
+---
+
+### ⚡ Fun Fact:
+Sometimes debugging takes longer than writing the code 😅
+
+---
+
+<div align="center">
+
+### 🚀 Always learning, always building.
+
+</div>
